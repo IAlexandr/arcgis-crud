@@ -1,0 +1,25 @@
+{
+  "name": "arcgis-crud",
+  "version": "0.0.1",
+  "description": "crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAlexandr/arcgis-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAlexandr/arcgis-crud/issues"
+  },
+  "homepage": "https://github.com/IAlexandr/arcgis-crud#readme",
+  "dependencies": {
+    "request": "^2.67.0",
+    "superagent": "^1.4.0",
+    "underscore": "^1.8.3",
+    "urlencode": "^1.1.0"
+  }
+}
